@@ -1,0 +1,1 @@
+export const userNames  = ['user1','user2']
